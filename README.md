@@ -13,7 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@cd6e6622-8002-4f64-97af-f3fbb1a237db/dcea8f4d-8038-4152-8dcf-b18965539111.png" /></a>
