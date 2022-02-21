@@ -13,7 +13,9 @@
 <div align="center"> <h3> 👋 My </h3>   
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:424tjdwns@gmail.com)](mailto:424tjdwns@gmail.com)
- <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/> 
+  <a href="https://www.youtube.com/channel/UCfwxd-jEgSOWb_qwSNZ4KEg">
+ <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"> </a>
+
 
 <br>
 <br>
